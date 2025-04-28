@@ -1,3 +1,7 @@
+NAME : RANJANI K
+
+REG NO: 212224230220
+
 EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
@@ -9,9 +13,11 @@ Write a C program to convert a 23.65 into 25 using pointer
 4.	Print the modified value.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/9185339f-3155-4360-bd48-41e9ee05dcdb)
 
 ## OUTPUT:
- 	
+ ![image](https://github.com/user-attachments/assets/27a93765-a106-4474-b010-5572c6ea5dcc)
+
 
 
 
@@ -45,8 +51,11 @@ Write a C program to calculate the Product of first 12 natural numbers using Rec
 6.	Print the result, indicating it is the product of the first 12 natural numbers.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/f8171f30-b796-41b0-9564-d1b01f12b6e8)
+
 ## OUTPUT:
-         		
+ ![image](https://github.com/user-attachments/assets/0fbcf0ae-876d-42aa-a094-8f0aee71d1ee)
+      		
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -68,10 +77,12 @@ Write C Program to find Sum of each row of a Matrix
 4.	Print the sum for each row.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/6fa5a6a4-6d0f-4153-88f2-c3edb7854a68)
 
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/5f584309-1e90-4335-9dce-01c2c949d94f)
 
 
  
@@ -96,9 +107,11 @@ Write C program for the below pyramid string pattern. Enter a string: PROGRAM En
 5.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/371f6dc5-1e84-477d-8b47-325a87f73069)
 
 
  ## OUTPUT
+![image](https://github.com/user-attachments/assets/05bde43d-2128-4c95-8ddc-36151e93ba65)
 
  
 
@@ -132,8 +145,10 @@ Step 5: Loop from i = 0 to i < n:
 Step 6: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/4ec0971c-ea51-4d33-a82d-f8d3fbb001b3)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/026d15c7-908f-4077-b7f4-b4613a67c5eb)
 
  
 
